@@ -1,6 +1,6 @@
 <nav>
-	<a href="/">home</a>
-	<a href="/header-and-cookies">header-and-cookies</a>
+	<a href="/">Home</a>
+	<a href="/header-and-cookies">Header and cookies</a>
 </nav>
 
 <slot />
