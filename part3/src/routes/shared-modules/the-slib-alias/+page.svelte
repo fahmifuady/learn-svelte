@@ -6,6 +6,7 @@
 	import { message } from '$lib/message.js';
 </script>
 
+<p>/shared-modules/the-slib-alias</p>
 <h1>a deeply nested route</h1>
 <p>{message}</p>
 
